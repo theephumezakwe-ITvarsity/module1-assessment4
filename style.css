@@ -1,0 +1,13 @@
+table{
+    font-family: helvetica, sans-serif;
+    border-collapse: collapse;
+    border-width: 1px;
+    border-style: solid;
+    border-color: darkorange;
+}
+
+th{
+    font-weight:800;
+    background: #2695B6;
+    color: aquamarine;
+}
